@@ -1,0 +1,40 @@
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\bin\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\bin\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\3oso\Desktop\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\3oso\Desktop\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\3oso\Desktop\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\3oso\Desktop\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\3oso\Desktop\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\3oso\Desktop\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\3oso\Desktop\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\3oso\Desktop\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+E:\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+E:\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+E:\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+E:\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+E:\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\projects\ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\projects\ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\projects\ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+E:\projects\ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+E:\projects\ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+E:\projects\ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\projects\ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+E:\projects\ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
